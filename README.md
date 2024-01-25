@@ -10,8 +10,10 @@ Please see the [IWSLT website](https://iwslt.org/2024/low-resource).
 ## Validation data
 We follow the same format as the previous shared task editions, see `data/valid/txt`. The audio files can be downloaded from [here](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.
 
+In the `segments` file, we follow the `offset ||| duration` formulation, formating the timestamps in the `"%S.%03d"` format, i.e., seconds and miliseconds, see the `valid.yaml`.
+
 ## 2024 Test data
-To be released soon, participants will be provided with `wav` files and the correspondig `segments` file.
+To be released soon.
 
 
 ## License
