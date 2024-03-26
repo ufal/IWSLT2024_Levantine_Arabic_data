@@ -16,7 +16,7 @@ We follow the same format as the previous shared task editions, see `data/valid/
 In the `segments` file, we follow the `offset ||| duration` formulation, formating the timestamps in the `"%S.%03d"` format, i.e., seconds and miliseconds, see the `valid.yaml`.
 
 ## 2024 Test data
-To be released soon.
+[01.04.2024] We have released the segments file corresponding to 2024 test data, see `data/test2024/txt`. The audio files can be now downloaded from [the same source](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/) as validation data, using the same password.
 
 
 ## License
