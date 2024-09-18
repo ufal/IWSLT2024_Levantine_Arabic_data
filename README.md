@@ -9,14 +9,18 @@ Please see the [IWSLT website](https://iwslt.org/2024/low-resource).
 
 ## Validation data
 
-[**17.02.2024**] We fixed the incorrect timestamps for two dialogues: __Tar_13052022_Food__ and __Tar_13052022_Czechia__. Both `segments` and `valid.yaml` files were effected, `valid.{apc,eng}` have not changed.
+~~[**17.02.2024**] We fixed the incorrect timestamps for two dialogues: __Tar_13052022_Food__ and __Tar_13052022_Czechia__. Both `segments` and `valid.yaml` files were effected, `valid.{apc,eng}` have not changed.~~
 
-We follow the same format as the previous shared task editions, see `data/valid/txt`. The audio files can be downloaded from [here](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.
+~~We follow the same format as the previous shared task editions, see `data/valid/txt`. The audio files can be downloaded from [here](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.~~
+
+The data corresponding to the IWSLT 2024 validation split is available [here](http://hdl.handle.net/11234/1-5518).
 
 In the `segments` file, we follow the `offset ||| duration` formulation, formating the timestamps in the `"%S.%03d"` format, i.e., seconds and miliseconds, see the `valid.yaml`.
 
 ## 2024 Test data
-[01.04.2024] We have released the segments file corresponding to 2024 test data, see `data/test2024/txt`. The audio files can be now downloaded from [the same source](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/) as validation data, using the same password.
+~~[01.04.2024] We have released the segments file corresponding to 2024 test data, see `data/test2024/txt`. The audio files can be now downloaded from [the same source](https://storage.ms.mff.cuni.cz/d/a9a75b8286af4ec28b1b/) as validation data, using the same password.~~
+
+The data corresponding to the IWSLT 2024 test split is available [here](http://hdl.handle.net/11234/1-5519).
 
 
 ## License
