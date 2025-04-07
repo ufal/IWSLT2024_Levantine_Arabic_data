@@ -22,6 +22,8 @@ In the `segments` file, we follow the `offset ||| duration` formulation, formati
 
 The data corresponding to the IWSLT 2024 test split is available [here](http://hdl.handle.net/11234/1-5519).
 
+## 2025 Test data
+[07.04.2025] We have released the segments file corresponding to 2025 test data, see `data/test2025/txt`. The audio files can be now downloaded [here](https://storage.ms.mff.cuni.cz/f/20b053e0895940a0b58f/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.
 
 ## License
 The data is property of the Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University.
