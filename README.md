@@ -23,9 +23,11 @@ In the `segments` file, we follow the `offset ||| duration` formulation, formati
 The data corresponding to the IWSLT 2024 test split is available [here](http://hdl.handle.net/11234/1-5519).
 
 ## 2025 Test data
-[07.04.2025] We have released the segments file corresponding to 2025 test data, see `data/test2025/txt`. The audio files can be now downloaded [here](https://storage.ms.mff.cuni.cz/f/20b053e0895940a0b58f/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.
+~~[07.04.2025] We have released the segments file corresponding to 2025 test data, see `data/test2025/txt`. The audio files can be now downloaded [here](https://storage.ms.mff.cuni.cz/f/20b053e0895940a0b58f/). When prompted for password, use  __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.~~
 
-[18.04.2025] If you are unable to download the audio data from the link above, please use [this](https://mega.nz/#P!AgH1kFVErhHRiLXe1VOUrdPtry58GpUeoTOV6R8XMZnTePMg2FchZO5CdjjxJWWSknQnFgXwyYw0HDtxDs-NeCdoJtfOLHMRQ_1Wzn0SYC_JEbUWpCg9ixscTe_jTL_Ff4gcyDeXBcw) one. The password is the same, i.e __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.
+~~[18.04.2025] If you are unable to download the audio data from the link above, please use [this](https://mega.nz/#P!AgH1kFVErhHRiLXe1VOUrdPtry58GpUeoTOV6R8XMZnTePMg2FchZO5CdjjxJWWSknQnFgXwyYw0HDtxDs-NeCdoJtfOLHMRQ_1Wzn0SYC_JEbUWpCg9ixscTe_jTL_Ff4gcyDeXBcw) one. The password is the same, i.e __lowercased name of this repository__, e.g., `github.com/xyz/Foo_Bar_1 -> foo_bar_1`.~~
+
+The data corresponding to the IWSLT 2025 test split is available [here](http://hdl.handle.net/11234/1-5924).
 
 ## License
 The data is property of the Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University.
